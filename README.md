@@ -306,7 +306,7 @@ Feel free to extend APEX with:
 
 MIT License
 
-Copyright (c) 2025 ToToAppsYT
+Copyright (c) 2026 ToToAppsYT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
